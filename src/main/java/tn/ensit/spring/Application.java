@@ -8,6 +8,8 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
+//		ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
+//		applicationContext.getBean("javaControllerBean");
 	}
 
 }
