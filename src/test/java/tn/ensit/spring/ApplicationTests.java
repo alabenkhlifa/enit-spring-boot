@@ -1,4 +1,4 @@
-package tn.enit.spring;
+package tn.ensit.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
