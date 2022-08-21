@@ -1,4 +1,4 @@
-package tn.enit.spring;
+package tn.ensit.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
